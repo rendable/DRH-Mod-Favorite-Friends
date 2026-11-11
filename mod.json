@@ -1,0 +1,11 @@
+{
+  "id": "favorite_friends",
+  "name": "Favorite Friends",
+  "description": "Star friends on the town leaderboard and keep favorites at the top of their online or offline group.",
+  "version": "0.1.1",
+  "author": "Danny",
+  "api": "1.2",
+  "drh": "17",
+  "entry": "Main",
+  "uses": ["extends"]
+}
